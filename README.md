@@ -141,6 +141,8 @@ Deployment - Rocketeer
 
 Hosting - Matrix Cloud
 
+Statistics Collection Service - Collectd will soon include https://github.com/etsy/statsd/
+
 Source Code Control (Gitlab)
 
 ### Virtual Appliance Creation Useful for Service Oriented Architectures
