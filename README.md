@@ -42,6 +42,24 @@ Important for Daemons!
 https://github.com/odesk/phystrix (inspired by https://github.com/Netflix/Hystrix)
 https://github.com/asm89/php-try
 
+### Unorganised
+
+PHP
+
+1. use option type (return it) - use types
+2. use symfony option config
+3. Defeat NULL reference exception by using option type and lenient collections.
+4. Start using collections.
+http://offshootinc.com/blog/2011/04/01/reusable-sorting-for-collection-objects-in-php/
+http://stackoverflow.com/questions/3166405/spl-vs-array-when-should-we-use-spl-and-when-should-we-use-array-in-php
+http://blog.shay.co/phps-native-array-vs-splfixedarray-performance/
+http://jmsyst.com/libs/PHP-Collection
+http://www.sitepoint.com/collection-classes-in-php/
+
+### HTTP
+
+http://viswaug.files.wordpress.com/2008/11/http-headers-status1.png
+
 Client Side
 -----------
 
