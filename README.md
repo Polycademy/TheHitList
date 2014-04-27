@@ -60,6 +60,15 @@ http://www.sitepoint.com/collection-classes-in-php/
 
 http://viswaug.files.wordpress.com/2008/11/http-headers-status1.png
 
+### Serializing
+
+https://github.com/fruux/sabre-xml
+https://github.com/schmittjoh/serializer
+
+### Exceptions
+
+https://github.com/freddiefrantzen/e2ex
+
 Client Side
 -----------
 
@@ -83,6 +92,8 @@ http://stackoverflow.com/questions/16514509/how-do-you-serve-a-file-for-download
 http://jsfiddle.net/g/CncFy/
 
 http://davidwalsh.name/download-attribute
+
+http://pieroxy.net/blog/pages/lz-string/demo.html
 
 CLI Tools
 ---------
