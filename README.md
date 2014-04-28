@@ -123,6 +123,10 @@ PHP
 
 * https://github.com/psliwa/PHPPdf
 
+### Authentication & Authorisation
+
+* PolyAuth
+
 ### Workflow
 
 * https://github.com/gushphp/gush
