@@ -35,6 +35,7 @@ PHP
 * Guzzle
 * Notificator https://github.com/namshi/notificator
 * Phystrix https://github.com/odesk/phystrix
+* https://github.com/clue/socks
 
 ### Logging
 
@@ -180,6 +181,7 @@ PHP
 * https://github.com/mcordingley/PHPStats
 * https://github.com/moontoast/math
 * https://github.com/powder96/numbers.php
+* https://github.com/clue/graph
 
 ### LINQ
 
@@ -242,6 +244,7 @@ PHP
 ### Code Optimisation (Space & Time Complexity)
 
 * https://github.co/mHalleck45/PhpMetrics
+* https://github.com/clue/graph-composer
 * PHP CodeSniffer https://github.com/squizlabs/PHP_CodeSniffer
 * PHP Coding Style Fixer https://github.com/fabpot/PHP-CS-Fixer
 * PHP Mess Detector https://github.com/phpmd/phpmd
@@ -321,6 +324,10 @@ Javascript (Frontend & Backend)
 ### AngularJS
 
 * https://github.com/mgechev/angularjs-style-guide
+
+### Fonts
+
+* https://www.theleagueofmoveabletype.com/
 
 Linux
 -----
