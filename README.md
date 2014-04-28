@@ -3,227 +3,201 @@ The Hit List
 
 A list of projects, solutions, guidelines, source code, gists for common and not-so-common problems.
 
-Server Side (self contained services and libraries)
----------------------------------------------------
+Web Servers
+-----------
 
-Shell Wrapping:
+### Technologies
 
-http://symfony.com/doc/current/components/process.html
-https://github.com/adambrett/php-shell-wrapper
-https://github.com/MrRio/shellwrap
-https://github.com/arturadib/shelljs (port this over to PHP or use Node.js RPC)
+* https://github.com/Polycademy/WebserverConfiguration
 
-Notificator:
+### Learning
 
-https://github.com/namshi/notificator
-
-Async Frameworks:
-https://github.com/rdlowrey/Amp
-React
-
-IOC
-https://github.com/rdlowrey/Auryn
-
-HTTP Client
-Requests (Flexible, good for small libraries, Easiest to learn (does not need curl but can use it to allow async, otherwise fallsback on fsockopen))
-Artax (Best for Async or Low level connections (does not need curl))
-Guzzle (Most Featured (needs curl))
-
-Collections
-Ardent https://github.com/morrisonlevi/Ardent
-
-Memory Management
-https://github.com/zendframework/Component_ZendMemory (http://framework.zend.com/manual/1.12/en/zend.memory.overview.html)
-http://www.php.net/manual/en/internals2.memory.php
-Important for Daemons!
-
-### Fault Tolerant Programming
-
-https://github.com/odesk/phystrix (inspired by https://github.com/Netflix/Hystrix)
-https://github.com/asm89/php-try
-
-### Unorganised
+* http://viswaug.files.wordpress.com/2008/11/http-headers-status1.png
 
 PHP
+---
 
-1. use option type (return it) - use types
-2. use symfony option config
-3. Defeat NULL reference exception by using option type and lenient collections.
-4. Start using collections.
-http://offshootinc.com/blog/2011/04/01/reusable-sorting-for-collection-objects-in-php/
-http://stackoverflow.com/questions/3166405/spl-vs-array-when-should-we-use-spl-and-when-should-we-use-array-in-php
-http://blog.shay.co/phps-native-array-vs-splfixedarray-performance/
-http://jmsyst.com/libs/PHP-Collection
-http://www.sitepoint.com/collection-classes-in-php/
+### Frameworks
 
-### HTTP
+* Dragoon
 
-http://viswaug.files.wordpress.com/2008/11/http-headers-status1.png
+### Shell Wrapping
+
+* http://symfony.com/doc/current/components/process.html
+* https://github.com/adambrett/php-shell-wrapper
+* https://github.com/MrRio/shellwrap
+
+### Communication
+
+* Requests
+* Artax
+* Guzzle
+* Notificator https://github.com/namshi/notificator
+* Phystrix https://github.com/odesk/phystrix
+
+### Logging
+
+* Monolog
+
+### Asynchronous Frameworks
+
+* ReactPHP https://github.com/rdlowrey/Amp
+* PHPSwoole
+* Amp
+
+### Process Managers
+
+* https://github.com/marcj/php-pm
+* PHP-FPM
+
+### Inversion of Control
+
+* https://github.com/rdlowrey/Auryn
+
+### Data Structures
+
+* Ardent https://github.com/morrisonlevi/Ardent
+* PHP Collection - http://jmsyst.com/libs/PHP-Collection
+
+### Caching
+
+* Stash
+
+### System
+
+* Zend Memory - https://github.com/zendframework/Component_ZendMemory & http://framework.zend.com/manual/1.12/en/zend.memory.overview.html
+* Memory Internals - http://www.php.net/manual/en/internals2.memory.php
+
+### Routing
+
+* https://github.com/nikic/FastRoute
+
+### Logic
+
+* https://github.com/asm89/php-try
+* https://github.com/freddiefrantzen/e2ex
 
 ### Serializing
 
-https://github.com/fruux/sabre-xml
-https://github.com/schmittjoh/serializer
+* https://github.com/fruux/sabre-xml
+* https://github.com/schmittjoh/serializer
 
-### Exceptions
+### Filesystem
 
-https://github.com/freddiefrantzen/e2ex
+* Flypaper
+* Gaufrette
 
-Client Side
------------
+### File Watching
+
+* https://github.com/EHER/phpwatch
+* https://github.com/facebook/watchman
+
+### Command Line Frameworks
+
+* https://github.com/symfony/Console
+
+### Command Line Text Graphics
+
+* https://github.com/zetacomponents/ConsoleTools
+
+### PHP Runtimes
+
+* phpbrew https://github.com/c9s/phpbrew
+* hhvm
+* hippyvm
+
+### PHP Extensions
+
+* Zephir
+
+### Packaging
+
+* https://github.com/kherge/php-box
+* Composer
+
+### Deployment
+
+* Rocketeer
+
+### PDF
+
+* https://github.com/psliwa/PHPPdf
+
+### Workflow
+
+* https://github.com/gushphp/gush
+
+### Code optimisation
+
+* https://github.co/mHalleck45/PhpMetrics
+* https://github.com/Trismegiste/Mondrian
+
+### Learning
+
+* https://github.com/domnikl/DesignPatternsPHP
+* https://github.com/Trismegiste/Php-Is-Magic
+
+Javascript
+----------
+
+### Shell Wrapping
+
+* https://github.com/arturadib/shelljs (port this over to PHP or use Node.js RPC)
+
+### Process Managers
+
+* https://github.com/unitech/pm2
 
 ### Charting
 
-NVD3.js
-Morris charts
-Dygraphs.com
+* NVD3.js
+* Morris charts
+* Dygraphs.com
 
 ### UI Frameworks
 
-Bootstrap
-Foundation
-Semantic UI
-Ionic
+* Bootstrap
+* Foundation
+* Semantic UI
+* Ionic
 
-### AJAX File Downloading
+### Compression
 
-http://stackoverflow.com/questions/16514509/how-do-you-serve-a-file-for-download-with-angularjs-or-javascript
+* http://pieroxy.net/blog/pages/lz-string/demo.html
 
-http://jsfiddle.net/g/CncFy/
+### Downloads
 
-http://davidwalsh.name/download-attribute
+* http://stackoverflow.com/questions/16514509/how-do-you-serve-a-file-for-download-with-angularjs-or-javascript
+* http://jsfiddle.net/g/CncFy/
+* http://davidwalsh.name/download-attribute
 
-http://pieroxy.net/blog/pages/lz-string/demo.html
+### Packaging
 
-CLI Tools
----------
+* webpack
+* pulldown
 
-### Watching
+Linux
+-----
 
-https://github.com/EHER/phpwatch (Any system but very slow)
-https://github.com/facebook/watchman (only for Unixy systems)
+### Packaging
 
-### CLI User Interface Tools
-
-https://github.com/zetacomponents/ConsoleTools
-
-### Framework
-
-http://symfony.com/doc/current/components/console/introduction.html
+* https://github.com/jordansissel/fpm
 
 Development Tools
 -----------------
 
-GUI for X Certificate and Key Management. Like your own little CA for self signed SSL certificates: http://sourceforge.net/projects/xca/ (cross platform)
+* Certificate Authority & Key Management http://sourceforge.net/projects/xca/
+* Hosts GUI for Windows http://hostsfileeditor.codeplex.com/
+* CRLF to LF dos2unix
+* Localhost Tunnelling https://ngrok.com/
+* Text Editors https://github.com/showcases/text-editors
 
-GUI Hosts File Editor: http://hostsfileeditor.codeplex.com/ (Windows)
+Production
+----------
 
-CRLF to LF - dos2unix (Some conf files need LF)
+* Matrix AI
 
-### Version Managers
+Other Lists
+-----------
 
-PHP - phpbrew https://github.com/c9s/phpbrew
-Python - virtualenv
-Ruby - rvm
-Node - n
-
-### Phars
-
-https://github.com/kherge/php-box
-
-### LocalHost Tunnelling
-
-https://ngrok.com/
-https://github.com/inconshreveable/ngrok
-
-### Package Managers
-
-pulldown - random text files and etc!
-all the others
-browserify
-webpack
-and the combiner (writes json files for all those package managers)
-
-### Service Oriented Architecture
-
-Event Bus (MQ)
-
-Notificator
-
-Relay
-
-Auth (Identity Service)
-
-Chat
-
-Batch Processing
-
-RPC
-
-Logging
-
-Scheduler - Chronus
-
-Monitoring - Circus
-
-Deployment - Rocketeer
-
-Hosting - Matrix Cloud
-
-Statistics Collection Service - Collectd will soon include https://github.com/etsy/statsd/
-
-Source Code Control (Gitlab)
-
-### Virtual Appliance Creation Useful for Service Oriented Architectures
-
-1. http://www.packer.io/ (Supports all cross-platform VA formats AND Docker)
-2. Use Dockerfiles directly (but then can only support docker!)
-
-See:
-https://gitlab.com/gitlab-org/gitlab-packer/tree/master
-http://mmckeen.net/blog/2013/12/27/advanced-docker-provisioning-with-packer/
-http://mmckeen.net/blog/2013/12/14/docker-all-the-things-nginx-and-supervisor/
-
-### Provisioners
-
-Use ANSIBLE!!
-
-### Dev Environments
-
-Use Packer to create standardised base boxes for development. (For Vagrant + Targetted Host (DigitalOcean))
-(Packer will use Ansible as provisioners and config management)
-
-VirtualBox + Vagrant + Docker uses these base boxes, and you build your app in these environments.
-
-Once the app is developed, use Packer (along with additional Ansible) to build a new box as a virtual software appliance and then deploy it.
-
-Deploy it on the Matrix as a Docker container.
-
-https://groups.google.com/forum/#!msg/packer-tool/4lB4OqhILF8/NPoMYeew0sEJ
-
-
-OR
-
-Packer with Ansible creates a Vagrant Box that supports Docker and Other Common Dev things.
-
-Vagrant runs this new vagrant box. You develop on it.
-
-Then use Packer to package up the developed docker container.
-
-pretengineer.com/post/packer-vagrant-infra
-
-http://mmckeen.net/blog/2013/12/27/advanced-docker-provisioning-with-packer/
-
-### DVCS Workfow
-
-https://github.com/gushphp/gush for Git/Github management
-
-### Editors
-
-Sublime Text Editor (or https://github.com/limetext/lime)
-
- - https://github.com/SublimeLinter/SublimeLinter3
-
-### API Documentation Generators
-
-PHPDocumentor for PHP
+* https://github.com/ziadoz/awesome-php
