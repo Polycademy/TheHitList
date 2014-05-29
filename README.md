@@ -142,7 +142,6 @@ PHP
 
 * phpbrew https://github.com/c9s/phpbrew
 * hhvm
-* hippyvm
 
 ### PHP Extensions
 
@@ -151,6 +150,7 @@ PHP
 ### Packaging
 
 * https://github.com/kherge/php-box
+* https://github.com/herrera-io/php-phar-update
 * Composer
 
 ### Deployment
@@ -329,12 +329,23 @@ Javascript (Frontend & Backend)
 
 * https://www.theleagueofmoveabletype.com/
 
+### UI Patterns
+
+* http://wicky.nillia.ms/headroom.js/ (Quick Return)
+
 Linux
 -----
 
 ### Packaging
 
 * https://github.com/jordansissel/fpm
+
+Text Wrangling
+--------------
+
+### CSV
+
+* https://github.com/onyxfish/csvkit
 
 Development Tools
 -----------------
