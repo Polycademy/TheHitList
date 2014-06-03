@@ -116,6 +116,7 @@ PHP
 
 * https://github.com/symfony/Console
 * https://github.com/kevinlebrun/colors.php
+* http://docopt.org/
 
 ### Command Line Text Graphics
 
