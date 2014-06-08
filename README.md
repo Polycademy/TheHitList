@@ -28,6 +28,12 @@ PHP
 * https://github.com/adambrett/php-shell-wrapper
 * https://github.com/MrRio/shellwrap
 
+### Task Runner
+
+* Envoy https://github.com/laravel/envoy
+* Robo https://github.com/Codegyre/Robo
+* Phake https://github.com/jaz303/phake
+
 ### Communication
 
 * Requests
@@ -36,6 +42,12 @@ PHP
 * Notificator https://github.com/namshi/notificator
 * Phystrix https://github.com/odesk/phystrix
 * https://github.com/clue/socks
+
+### Streams
+
+* https://github.com/reactphp/stream
+* https://github.com/fzaninotto/Streamer
+* https://github.com/rkrx/php-streams
 
 ### Logging
 
@@ -111,6 +123,7 @@ PHP
 
 * https://github.com/EHER/phpwatch
 * https://github.com/facebook/watchman
+* https://github.com/henrikbjorn/Lurker
 
 ### Command Line Frameworks
 
@@ -143,6 +156,7 @@ PHP
 
 * phpbrew https://github.com/c9s/phpbrew
 * hhvm
+* hippyvm
 
 ### PHP Extensions
 
@@ -260,6 +274,7 @@ PHP
 
 * Codeception http://codeception.com/
 * Faker https://github.com/fzaninotto/Faker
+* Selenium http://elementalselenium.com/tips
 
 ### Learning
 
@@ -356,6 +371,11 @@ Development Tools
 * CRLF to LF dos2unix
 * Localhost Tunnelling https://ngrok.com/
 * Text Editors https://github.com/showcases/text-editors
+
+Resume Construction
+-------------------
+
+* https://github.com/prat0318/json_resume
 
 Production
 ----------
