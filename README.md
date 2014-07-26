@@ -103,6 +103,10 @@ http://symfony.com/doc/current/components/console/introduction.html
 Development Tools
 -----------------
 
+### SSH
+
+Mosh: https://github.com/keithw/mosh
+
 GUI for X Certificate and Key Management. Like your own little CA for self signed SSL certificates: http://sourceforge.net/projects/xca/ (cross platform)
 
 GUI Hosts File Editor: http://hostsfileeditor.codeplex.com/ (Windows)
@@ -216,3 +220,7 @@ Sublime Text Editor (or https://github.com/limetext/lime)
 ### API Documentation Generators
 
 PHPDocumentor for PHP
+
+### Fonts
+
+https://www.theleagueofmoveabletype.com/
