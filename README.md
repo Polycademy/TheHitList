@@ -76,6 +76,10 @@ PHP
 * Ardent https://github.com/morrisonlevi/Ardent
 * PHP Collection - http://jmsyst.com/libs/PHP-Collection
 
+### Control Flow
+
+* https://github.com/bevacqua/contra
+
 ### Event Bus
 
 * https://github.com/igorw/evenement
