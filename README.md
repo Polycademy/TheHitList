@@ -42,6 +42,7 @@ PHP
 * Notificator https://github.com/namshi/notificator
 * Phystrix https://github.com/odesk/phystrix
 * https://github.com/clue/socks
+* https://github.com/substack/stream-handbook
 
 ### Streams
 
@@ -56,9 +57,9 @@ PHP
 ### Asynchronous I/O, Concurrency and Coroutines
 
 * ReactPHP https://github.com/reactphp/react
-* PHPSwoole https://github.com/matyhtf/swoole
-* Amp https://github.com/rdlowrey/Amp
 * Recoil https://github.com/recoilphp/recoil
+* PHPSwoole https://github.com/matyhtf/swoole & Swoole Framework https://github.com/matyhtf/swoole_framework
+* Amp https://github.com/rdlowrey/Amp
 * XPSPL https://github.com/prggmr/XPSPL
 * pthreads https://github.com/krakjoe/pthreads
 
@@ -200,6 +201,7 @@ PHP
 
 ### LINQ
 
+* https://github.com/TimeToogo/Pinq/
 * https://github.com/akanehara/ginq
 * https://github.com/Athari/YaLinqo
 * https://github.com/Blackshawk/phinq
@@ -220,8 +222,10 @@ PHP
 ### Data Filtering & Data Validation
 
 * Verify
+* Valitron
 * https://github.com/ircmaxell/filterus
 * https://github.com/ezyang/htmlpurifier
+* URL Validation - https://gist.github.com/dperini/729294 & http://mathiasbynens.be/demo/url-regex
 
 ### DateTime
 
@@ -269,12 +273,7 @@ PHP
 * https://github.com/firstrow/feature-science
 * https://github.com/devster/ubench
 * https://github.com/almadomundo/benchmark
-
-### Testing
-
-* Codeception http://codeception.com/
-* Faker https://github.com/fzaninotto/Faker
-* Selenium http://elementalselenium.com/tips
+* http://phpqatools.org/
 
 ### Learning
 
@@ -348,6 +347,17 @@ Javascript (Frontend & Backend)
 ### UI Patterns
 
 * http://wicky.nillia.ms/headroom.js/ (Quick Return)
+
+Testing
+-------
+
+* Codeception http://codeception.com/
+* Faker https://github.com/fzaninotto/Faker
+* Selenium http://elementalselenium.com/tips
+* Huxley https://github.com/facebook/huxley
+* Casperjs
+* ServerSpec
+* Test Kitchen
 
 Linux
 -----
