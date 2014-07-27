@@ -77,6 +77,10 @@ PHP
 * Ardent https://github.com/morrisonlevi/Ardent
 * PHP Collection - http://jmsyst.com/libs/PHP-Collection
 
+### Control Flow
+
+* https://github.com/bevacqua/contra
+
 ### Event Bus
 
 * https://github.com/igorw/evenement
@@ -131,6 +135,10 @@ PHP
 * https://github.com/symfony/Console
 * https://github.com/kevinlebrun/colors.php
 * http://docopt.org/
+
+### SSH
+
+Mosh: https://github.com/keithw/mosh
 
 ### Command Line Text Graphics
 
@@ -348,6 +356,10 @@ Javascript (Frontend & Backend)
 
 * http://wicky.nillia.ms/headroom.js/ (Quick Return)
 
+### Fonts
+
+* https://www.theleagueofmoveabletype.com/
+
 Testing
 -------
 
@@ -381,6 +393,7 @@ Development Tools
 * CRLF to LF dos2unix
 * Localhost Tunnelling https://ngrok.com/
 * Text Editors https://github.com/showcases/text-editors
+* PHPDocumentor for PHP
 
 Resume Construction
 -------------------
