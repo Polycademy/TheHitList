@@ -351,14 +351,11 @@ Javascript (Frontend & Backend)
 ### Fonts
 
 * https://www.theleagueofmoveabletype.com/
+* http://input.fontbureau.com/
 
 ### UI Patterns
 
 * http://wicky.nillia.ms/headroom.js/ (Quick Return)
-
-### Fonts
-
-* https://www.theleagueofmoveabletype.com/
 
 Testing
 -------
