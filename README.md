@@ -76,6 +76,7 @@ PHP
 
 * Ardent https://github.com/morrisonlevi/Ardent
 * PHP Collection - http://jmsyst.com/libs/PHP-Collection
+* Graph https://github.com/sdboyer/gliph
 
 ### Control Flow
 
@@ -166,6 +167,7 @@ Mosh: https://github.com/keithw/mosh
 * phpbrew https://github.com/c9s/phpbrew
 * hhvm
 * hippyvm
+* recki-ct https://github.com/google/recki-ct
 
 ### PHP Extensions
 
