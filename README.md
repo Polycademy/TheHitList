@@ -208,6 +208,7 @@ Mosh: https://github.com/keithw/mosh
 * https://github.com/moontoast/math
 * https://github.com/powder96/numbers.php
 * https://github.com/clue/graph
+* http://khan.github.io/KaTeX/
 
 ### LINQ
 
