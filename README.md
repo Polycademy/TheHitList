@@ -13,6 +13,7 @@ Web Servers
 ### Learning
 
 * http://viswaug.files.wordpress.com/2008/11/http-headers-status1.png
+* https://neosmart.net/blog/2015/using-hmac-signatures-to-avoid-database-writes/
 
 PHP
 ---
