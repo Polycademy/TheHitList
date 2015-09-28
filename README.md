@@ -226,6 +226,7 @@ Mosh: https://github.com/keithw/mosh
 
 * phpseclib https://github.com/phpseclib/phpseclib
 * https://cryptocoding.net/index.php/Coding_rules
+* https://github.com/danielmiessler/SecLists
 
 ### Geo Tools
 
